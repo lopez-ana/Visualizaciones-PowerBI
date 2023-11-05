@@ -1,6 +1,6 @@
 (en)
 
-> Welcome to my Power BI visualization repository! Dive into the diverse narratives conveyed by data through charts, tables, and dashboards. 📊
+Welcome to my Power BI visualization repository! Dive into the diverse narratives conveyed by data through charts, tables, and dashboards. 📊
 
 > PROJECTS:
 
@@ -10,7 +10,7 @@
 
 (es)
 
-> ¡Bienvenido a mi repo de visualizaciones creadas con Power Bi! Aquí podrás sumergirte en las diferentes historias que los datos cuentan a través de gráficos, tablas y paneles. 📊
+¡Bienvenido a mi repo de visualizaciones creadas con Power Bi! Aquí podrás sumergirte en las diferentes historias que los datos cuentan a través de gráficos, tablas y paneles. 📊
 
 > PROYECTOS:
 
